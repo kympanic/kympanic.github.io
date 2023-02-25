@@ -67,12 +67,12 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 							>
 								<li>
 									<span className="fw-600 me-2">Name:</span>
-									Simone Olivia
+									Daniel Yoo
 								</li>
 								<li>
 									<span className="fw-600 me-2">Email:</span>
-									<a href="mailto:chat@simone.com">
-										chat@simone.com
+									<a href="mailto:dacapo0509@gmail.com">
+										dacapo0509@gmail.com
 									</a>
 								</li>
 								<li>
@@ -80,7 +80,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 								</li>
 								<li className="border-0">
 									<span className="fw-600 me-2">From:</span>
-									Los Angeles, California
+									Moreno Valley, California
 								</li>
 							</ul>
 							<a
