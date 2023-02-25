@@ -75,9 +75,9 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 										dacapo0509@gmail.com
 									</a>
 								</li>
-								<li>
+								{/* <li>
 									<span className="fw-600 me-2">Age:</span>28
-								</li>
+								</li> */}
 								<li className="border-0">
 									<span className="fw-600 me-2">From:</span>
 									Moreno Valley, California
@@ -95,7 +95,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 					{/* about me personal details end */}
 				</div>
 				{/* projects rewards counting start */}
-				<div
+				{/* <div
 					className={
 						"brands-grid separator-border mt-5 " +
 						(darkTheme ? "separator-border-light" : "")
@@ -191,7 +191,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> */}
 				{/* projects rewards counting end */}
 			</div>
 		</section>

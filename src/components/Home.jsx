@@ -48,7 +48,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
 									/>
 								</h2>
 								<p className="text-5 text-light mb-4">
-									based in Los Angeles, California.
+									based in Moreno Valley, California.
 								</p>
 								<a
 									href="#contact"
