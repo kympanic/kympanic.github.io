@@ -98,11 +98,9 @@ const Contact = ({ classicHeader, darkTheme }) => {
 								"text-3 mb-4 " + (darkTheme ? "text-light" : "")
 							}
 						>
-							4th Floor, Plot No.22,
+							13210 Brentwood Lane
 							<br />
-							145 Murphy Canyon Rd.
-							<br />
-							San Diego CA 2028
+							Moreno Valley CA 92553
 						</p>
 						<p
 							className={
