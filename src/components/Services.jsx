@@ -89,7 +89,7 @@ const Services = ({ classicHeader, darkTheme }) => {
 							(darkTheme ? "text-white" : "text-dark")
 						}
 					>
-						What I Do?
+						My Skills
 						<span className="heading-separator-line border-bottom border-3 border-primary d-block mx-auto" />
 					</p>
 				</div>
