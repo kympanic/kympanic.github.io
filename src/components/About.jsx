@@ -47,10 +47,24 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 							I used to make teeth. Now I make apps.
 						</p>
 						<p className={darkTheme ? "text-white-50" : ""}>
-							Delivering work within time and budget which meets
-							client’s requirements is our moto. Lorem Ipsum has
-							been the industry's standard dummy text ever when an
-							unknown printer took a galley.
+							With over 12+ years of working and managing a dental
+							lab, I have learned many useful skills that would
+							help me excel in web application development.
+							Experience in working alongside a team to reinforce
+							productivity and meet deadlines allows me to excel
+							in time management and making sure work gets done.
+							Although the technical process for creating a tooth
+							or dental appliance is usually the same, each person
+							is unique and therefore the finished product needs
+							to reflect that for the client. My creativity and
+							meticulous attention to detail in glazing, staining,
+							and contouring a crown has allowed me to excel in my
+							role. I believe my skills will transfer over
+							seamlessly in software development. Finally,
+							communicating with doctors and clients to ensure
+							patient satisfaction, will give me a unique
+							perspective on how to create intuitive and
+							user-friendly software.
 						</p>
 					</div>
 					{/* About me content end */}
