@@ -53,7 +53,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 			date: "November 20, 2022",
 			url: {
 				name: "KWave",
-				link: "https://soundcloud-dy.herokuapp.com/",
+				link: "https://kwave-soundcloud-clone.onrender.com/",
 			},
 			socialLinks: {
 				facebook: "http://www.facebook.com/",
