@@ -1,7 +1,6 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { ToastContainer, toast } from "react-toastify";
-
 import "react-toastify/dist/ReactToastify.css";
 import { Tooltip } from "./Tooltip";
 
@@ -14,10 +13,10 @@ const Contact = ({ classicHeader, darkTheme }) => {
 		setSendingMail(true);
 		emailjs
 			.sendForm(
-				"service_i86k3ms",
-				"template_si6cin9",
+				"service_cfyhhyx",
+				"template_q9pdelb",
 				form.current,
-				"c9HsDgGF0tvWyVnAL"
+				"NzHP2gU5Qbl6Bu1Lz"
 			)
 			.then(
 				(result) => {
