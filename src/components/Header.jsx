@@ -24,7 +24,7 @@ const Header = ({ classicHeader, darkTheme, homeRef, handleNavClick }) => {
 						<span className="bg-dark-2 rounded-pill p-2 mb-lg-1 d-none d-lg-inline-block">
 							<img
 								className="img-fluid rounded-pill d-block"
-								src="images/profile.jpg"
+								src="images/profile.jpeg"
 								title="I'm Simone"
 								alt="profile"
 							/>
