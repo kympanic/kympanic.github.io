@@ -56,16 +56,13 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 							for success in web application development.
 							Collaborating with teams to enhance productivity and
 							meet deadlines has honed my time management
-							abilities and ensured timely project completion.
-							While creating a tooth or dental appliance follows a
-							standardized process, I have excelled in infusing
-							creativity and meticulous attention to detail into
-							glazing, staining, and contouring crowns, resulting
-							in exceptional outcomes. I firmly believe that these
-							traits seamlessly transfer to software development.
-							Moreover, my experience in effectively communicating
-							with doctors and clients to ensure patient
-							satisfaction provides me with a distinctive
+							abilities and ensured timely project completion. I
+							had to be creative and detail-oriented when
+							producing dental appliances and I firmly believe
+							that these personality traits transfer to software
+							development. My experience in effectively
+							communicating with dentists and clients to ensure
+							patient satisfaction provides me with a distinctive
 							perspective on crafting intuitive and user-friendly
 							software solutions.
 						</p>

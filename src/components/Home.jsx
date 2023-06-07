@@ -40,7 +40,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
 												"I'm Daniel Yoo.",
 												"I'm a Technician.",
 												"I'm a Dreamer.",
-												"I'm a Designer.",
+												"I'm a Software Engineer",
 											],
 											autoStart: true,
 											loop: true,
