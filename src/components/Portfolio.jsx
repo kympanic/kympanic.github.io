@@ -11,8 +11,9 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 
 	const filters = {
 		REACT: "React",
-		PYTHON: "Python",
+		FLASK: "Flask",
 		EXPRESS: "Express",
+		MONGODB: "MongoDB",
 	};
 
 	const projectsData = [
@@ -21,7 +22,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 			projectInfo:
 				"A full stack application that purports to the theme of a trivia game site, with a focus on three main features: trivia packages, questions, and reviews. Several partial CRUD features include Search, the game itself, and game data history.",
 			technologies:
-				"HTML5, CSS3, Javascript, Python, React, Flask, SQLAlchemy, Node.js",
+				"HTML5, CSS3, Javascript, Python, React, Flask, PostgreSQL, SQLAlchemy, Node.js",
 			industry: "Education and Entertainment",
 			date: "Jan 30, 2022",
 			url: {
@@ -40,15 +41,15 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 				"images/projects/trivia-fighter2.jpg",
 				"images/projects/trivia-fighter3.jpg",
 			],
-			categories: [filters.REACT, filters.PYTHON],
+			categories: [filters.REACT, filters.FLASK],
 		},
 		{
 			title: "KWave",
 			projectInfo:
-				"KWave is a full stack application built with Express, Sequelize in the backend and React in the frontend. KWave is a SoundCloud clone with a Kpop music theme. Users are able to login/signup and upload/share their music with others",
+				"KWave is a full stack application built with Express, PostgreSQL in the backend and React in the frontend. KWave is a SoundCloud clone with a Kpop music theme. Users are able to login/signup and upload/share their music with others",
 			client: "Ruby Clinton",
 			technologies:
-				"HTML5, CSS3, JavaScript, React, Express, Sequelize, Node.js, React Audio Player",
+				"HTML5, CSS3, JavaScript, React, Express, Sequelize, PostgreSQL, Node.js, React Audio Player",
 			industry: "Art & Music",
 			date: "November 20, 2022",
 			url: {
@@ -75,7 +76,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 				"Group Project: Homecooked is a one stop shop for finding local vendors that will cook up your next delicious meal. A full stack application that purports to the theme of the Etsy website, with a focus on two main features: Products and Reviews, and several partial CRUD features including Search, Orders, and Cart.",
 			client: "Ruby Clinton",
 			technologies:
-				"JavaScript, Python, React/Redux, CSS3, HTML5, Flask/SQLAlchemy",
+				"JavaScript, Python, React/Redux, CSS3, HTML5, Flask/SQLAlchemy, PostgreSQL",
 			industry: "e-commerce",
 			date: "January 5, 2023",
 			url: {
@@ -94,7 +95,31 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 				"images/projects/homecooked-2.jpg",
 				"images/projects/homecooked-3.jpg",
 			],
-			categories: [filters.REACT, filters.PYTHON],
+			categories: [filters.REACT, filters.FLASK],
+		},
+		{
+			title: "MERN Starter App",
+			projectInfo:
+				"This MERN stack application is ready for deployment to Render. This project focuses more on the backend with user authentication, validation middleware, error handling, and MongoDB connection. Frontend has a simple design with register, login, and logout functionality. Github: https://github.com/kympanic/mernapp-starter",
+			client: "Ruby Clinton",
+			technologies:
+				"JavaScript, Express, React/Redux, CSS3, HTML5, MongoDB",
+			industry: "tech-stack",
+			date: "June 6, 2023",
+			url: {
+				name: "MERN Starter App",
+				link: "https://mern-app-starter.onrender.com/",
+			},
+			socialLinks: {
+				facebook: "http://www.facebook.com/",
+				twitter: "http://www.twitter.com/",
+				google: "http://www.google.com/",
+				instagram: "http://www.instagram.com/",
+				mail: "mailto:dacapo0509@gmail.com",
+			},
+			thumbImage: "images/projects/mern-starter1.jpg",
+			sliderImages: ["images/projects/mern-starter2.jpg"],
+			categories: [filters.REACT, filters.MONGODB],
 		},
 	];
 
