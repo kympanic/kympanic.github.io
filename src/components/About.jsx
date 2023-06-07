@@ -47,24 +47,27 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
 							I used to make teeth. Now I make apps.
 						</p>
 						<p className={darkTheme ? "text-white-50" : ""}>
-							With over 12+ years of working and managing a dental
-							lab, I have learned many useful skills that would
-							help me excel in web application development.
-							Experience in working alongside a team to reinforce
-							productivity and meet deadlines allows me to excel
-							in time management and making sure work gets done.
-							Although the technical process for creating a tooth
-							or dental appliance is usually the same, each person
-							is unique and therefore the finished product needs
-							to reflect that for the client. My creativity and
-							meticulous attention to detail in glazing, staining,
-							and contouring a crown has allowed me to excel in my
-							role. I believe my skills will transfer over
-							seamlessly in software development. Finally,
-							communicating with doctors and clients to ensure
-							patient satisfaction, will give me a unique
-							perspective on how to create intuitive and
-							user-friendly software.
+							I am a graduate of App Academy, a fullstack coding
+							intensive bootcamp. I used to be a dental technician
+							but changed my career path to fulfill my dream of
+							becoming a software engineer. With over 12+ years of
+							experience working and managing a dental lab, I have
+							acquired valuable skills that uniquely position me
+							for success in web application development.
+							Collaborating with teams to enhance productivity and
+							meet deadlines has honed my time management
+							abilities and ensured timely project completion.
+							While creating a tooth or dental appliance follows a
+							standardized process, I have excelled in infusing
+							creativity and meticulous attention to detail into
+							glazing, staining, and contouring crowns, resulting
+							in exceptional outcomes. I firmly believe that these
+							traits seamlessly transfer to software development.
+							Moreover, my experience in effectively communicating
+							with doctors and clients to ensure patient
+							satisfaction provides me with a distinctive
+							perspective on crafting intuitive and user-friendly
+							software solutions.
 						</p>
 					</div>
 					{/* About me content end */}
