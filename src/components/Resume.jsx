@@ -25,6 +25,12 @@ const Resume = ({ classicHeader, darkTheme }) => {
 
 	const experienceDetails = [
 		{
+			yearRange: "2023 - 2023",
+			title: "Frontend Developer Intern",
+			place: "Gemship",
+			desc: "In my front-end development role, I enhanced website efficiency and user experience. I focused on learning TypeScript to refactor code for reusability, implemented a pagination system for art displays to optimize backend resource usage, redesigned product cards to improve visual appeal and user engagement, and collaborated closely with the lead developer on various weekly tasks.",
+		},
+		{
 			yearRange: "2022 - 2023",
 			title: "Assistant Manager",
 			place: "Snap-E Ed's Country Liquor",
@@ -36,12 +42,12 @@ const Resume = ({ classicHeader, darkTheme }) => {
 			place: "Modern Dental USA",
 			desc: "Comprehensive understanding of a wide range of dental lab procedures, with exceptional proficiency in model room operations, die trimming, crown glazing and contouring, enabling the ability to transition between multiple functions to delivery high-quality results",
 		},
-		{
-			yearRange: "2016 - 2018",
-			title: "Manager/Owner",
-			place: "Plus Dental Studio",
-			desc: "Started own dental lab business in College Park, MD. Managed all aspects of inventory for the dental lab, built and maintained strong vendor relationships to secure cost-saving opportunities, and ensuring that the team had all the necessary supplies to delivery high-quality products to clients, driving business growth and success",
-		},
+		// {
+		// 	yearRange: "2016 - 2018",
+		// 	title: "Manager/Owner",
+		// 	place: "Plus Dental Studio",
+		// 	desc: "Started own dental lab business in College Park, MD. Managed all aspects of inventory for the dental lab, built and maintained strong vendor relationships to secure cost-saving opportunities, and ensuring that the team had all the necessary supplies to delivery high-quality products to clients, driving business growth and success",
+		// },
 	];
 
 	const skills = [
