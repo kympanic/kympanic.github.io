@@ -4,6 +4,12 @@ import resumeFile from "../documents/resume.pdf";
 const Resume = ({ classicHeader, darkTheme }) => {
 	const educationDetails = [
 		{
+			yearRange: "2023 - 2023",
+			title: "AWS Cloud Practitioner Certificate",
+			place: "AWS",
+			desc: "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. ",
+		},
+		{
 			yearRange: "2022 - 2023",
 			title: "Software Engineering",
 			place: "App Academy",

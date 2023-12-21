@@ -73,7 +73,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 		{
 			title: "Homecooked",
 			projectInfo:
-				"Group Project: Homecooked is a one stop shop for finding local vendors that will cook up your next delicious meal. A full stack application that purports to the theme of the Etsy website, with a focus on two main features: Products and Reviews, and several partial CRUD features including Search, Orders, and Cart.",
+				"Originally a group Project: Homecooked is a one stop shop for finding local vendors that will cook up your next delicious meal. A full stack application that purports to the theme of the Etsy website, with a focus on two main features: Products and Reviews, and several partial CRUD features including Search, Orders, and Cart.",
 			client: "Ruby Clinton",
 			technologies:
 				"JavaScript, Python, React/Redux, CSS3, HTML5, Flask/SQLAlchemy, PostgreSQL",
